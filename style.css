@@ -43,13 +43,13 @@ h1{
 
 
 .box{
-  height:160px;
-  width:160px;
+  height: 163px;
+  width: 160px;
   background-color: rgba(49, 49, 49, 0.438);
-  border-radius: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 22px;
 }
 
 #photo{
